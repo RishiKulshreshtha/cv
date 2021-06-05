@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Rishi Kulshreshtha
 
-You can use the [editor on GitHub](https://github.com/RishiKulshreshtha/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_A Full Stack developer based in Pune, India_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/rishikulshreshtha/) / [GitHub](https://github.com/RishiKulshreshtha/) / [Twitter](https://twitter.com/RishiShreshtha) / [Drupal](https://www.drupal.org/u/rishi-kulshreshtha) / [StackExchange](https://stackexchange.com/users/941018/rishi-kulshreshtha)
 
-### Markdown
+## 👨‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Drupal Developer/Freelancer** since _(Jun 2011 - Present)_ <br>
+A Full Stack Developer with extensive experience in working with technologies such as PHP & JS Frameworks.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+## 🏆 Accomplishments
 
-# Header 1
-## Header 2
-### Header 3
+**You Made a Difference!** @ [Persistent Systems](https://www.persistent.com/) _(2015 - 2016)_ <br>
+Your contribution to giving inputs and articulating the overall path for the Drupal site structure helped the project a lot!
+<br><br>
 
-- Bulleted
-- List
+## 💬 Languages
 
-1. Numbered
-2. List
+**Hindia**: Native <br>
+**English**: Professional <br>
+**Marathi**: Fluent <br>
+<br><br>
 
-**Bold** and _Italic_ and `Code` text
+## 👨‍🎓 Education
 
-[Link](url) and ![Image](src)
-```
+**Masters of Computers Application**<br>
+[Sikkim Manipal University Distance Education](https://smude.edu.in/smude.html) - Mumbai, Maharashtra, India _(2012 - 2014)_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RishiKulshreshtha/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Science** in Information Technology<br>
+[University of Mumbai](https://mu.ac.in/) - Mumbai, Maharashtra, India _(2008 - 2011)_
